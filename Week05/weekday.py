@@ -1,5 +1,5 @@
 # Programming and Scripting
-# Weekly Tasks 04
+# Weekly Tasks 05
 # Author: Megan O'Donovan
 
 ## Summary : Write a program that outputs whether or not today is a weekday.
