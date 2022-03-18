@@ -4,6 +4,7 @@
 
 ## Summary : Write a program that reads in a text file and outputs the number of e's it contains.
 #"r" - Read - Default value. Opens a file for reading
+
 file = open("C:\\Users\odonovanm\Documents\csvuploader.txt", "r")
 
 #read content of file to string
