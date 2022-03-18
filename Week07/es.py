@@ -1,5 +1,5 @@
 # Programming and Scripting
-# Weekly Tasks 02
+# Weekly Tasks 07
 # Author: Megan O'Donovan
 
 ## Summary : Write a program that reads in a text file and outputs the number of e's it contains.
