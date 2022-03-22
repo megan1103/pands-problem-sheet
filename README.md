@@ -4,7 +4,7 @@
 
 ### Description
 
-This repository contains weekly solutions to python tasks set between January and March for the course Programming and Scripting. Weekly tasks are found on the course homepage or in the link [here](https://learnonline.gmit.ie/course/view.php?id=5057). 
+This repository contains weekly solutions to python tasks set between January and March for the course Programming and Scripting. Weekly tasks are found on the course homepage or in the link [here](https://learnonline.gmit.ie/course/view.php?id=5057).
 
 ### Course Summary
 
@@ -17,13 +17,13 @@ This repository contains weekly solutions to python tasks set between January an
  
 - **Statements**
    - Using VScode and running program
-   - Outing results
-   - Input values (int, float,string)
+   - Output results (print())
+   - Input values (insert())
    - Comments
     
 - **State (Variables)**
    - How data is stored in a computer
-   - Variable types 
+   - Variable types  (int, float,string)
    - Using numeric functions (rounding decimal values to whole numbers, absolute value i.e negative to positive, removing the decimal places i.e floor)
    - String functions (determining the length of a string, changing characters from uppercase to lower)
 
@@ -32,11 +32,11 @@ This repository contains weekly solutions to python tasks set between January an
    - While statements (used to repeat a specific block of code an unknown number of times, until a condition is met)
     
 - **Data structures**
-   - List/Tuple/Dictionary (*ref: https://www.programiz.com/python-programming/methods/built-in/list*)
+   - List/Tuple/Dictionary[^1]
 
  - **Functions**
    - Functions (A block of code can be assigned to a function, information can be passed into a function. The function won't output information unless called upon. Similar to *with table1 as code*)
-   - Modules (This is where a block of code from a py file can be used in another py file *ref:https://www.w3schools.com/python/python_modules.asp *)
+   - Modules (This is where a block of code from a py file can be used in another py file[^2]
 
  - **Files**
    - Reading/Open (importing csv files, using open command including modes() i.e 'r' = read, 'r+' = read&write, 'w' = write)
@@ -58,3 +58,12 @@ This repository contains weekly solutions to python tasks set between January an
 | 6     | Functions                                            |https://github.com/megan1103/pands-problem-sheet/tree/main/Week06|
 | 7     | Files                                      | https://github.com/megan1103/pands-problem-sheet/tree/main/Week07|
 | 8     | Plotting data                                  |https://github.com/megan1103/pands-problem-sheet/tree/main/Week08 |
+
+## Python Code
+  - Explanation of the python code used in the weekly tasks.
+    - Week 1
+      - The weekly task was to set up the needed enviroment i.e downloading software and creating repositories. To test that Visual Studio was working and to understand how to generate an output, commit and merge results to github, we used 'Hello World' as an example.  
+
+## References
+[^1]: https://www.programiz.com/python-programming/methods/built-in/list
+[^2]: https://www.w3schools.com/python/python_modules.asp
