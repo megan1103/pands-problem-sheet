@@ -105,7 +105,8 @@ This repository contains weekly solutions to python tasks set between January an
 [^6]: https://www.delftstack.com/howto/python/python-datetime-day-of-week/
 [^7]: https://www.youtube.com/watch?v=3i9KozCUKU4&ab_channel=Skywalker
 [^8]: https://www.geeksforgeeks.org/find-root-of-a-number-using-newtons-method/
- <br /> ``
+  
+
 >> Code Explanation<br />
       <br /> Week 01
       <br /> `string = "Hello Would" `  *Declaring a string variable.*
