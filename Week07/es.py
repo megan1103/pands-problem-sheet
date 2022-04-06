@@ -10,9 +10,6 @@ file = open("C:\\Users\odonovanm\Documents\csvuploader.txt", "r")
 #read content of file to string
 dataOriginal = file.read()
 
-## if you want to converting all letters to lower case
-#dataLower = str.lower(file.read())
-
 #get number of occurrences of the substring in the string
 letterCount = dataOriginal.count("e")
 
