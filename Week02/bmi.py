@@ -14,4 +14,3 @@ bmivalue = round(weight/newheight,2)
 
 #print('The BMI is (kg/m^2) {}.' .format(bmivalue))  // This will print the bmi but the measure units won't be superscripted
 print("The BMI is (kg/m\u00b2)  {}.".format(bmivalue))
-
