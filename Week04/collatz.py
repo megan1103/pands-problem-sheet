@@ -16,10 +16,10 @@ terms = [n, ]
 
 # The example can't start with 1, it has to be a positive number
 while n != 1:
-    if n % 2 == 0: ## If n is even then divide by 2
+    if n % 2 == 0: # If n is even then divide by 2
         n = n / 2
         terms.append(int(n)) # Since we want all the values in the loop to show; append() method in python adds a single item to the existing list
     else: # if n isn't even then it's odd and we apply 3n+1
         n = 3 * n + 1
         terms.append(int(n))
-print(terms)
+print(terms) # Prints all n values in the loop
